@@ -1,5 +1,7 @@
 # Keeping Slack notifications under control
 
+You can set your notifications so that you are alerted only for explicit pings, rather than every single message.
+
 
 <!--
 ## Windows
