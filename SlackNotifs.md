@@ -4,7 +4,7 @@ You can set your notifications so that you are alerted only for explicit pings, 
 
 
 
-# Windows
+## Windows
 
 Select **File → Preferences** from the top left menu (3 lines)
 
